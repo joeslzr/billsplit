@@ -1,0 +1,38 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.btn-custom-primary{
+  color: whitesmoke;
+  background-color: #B33655;
+  border-color: #B33655;
+  font-size: medium;
+  width: 8em;
+}
+
+
+.btn-custom-outline-primary{
+  color: rgb(41, 40, 40);
+  background-color:white;
+  border-color: #B33655;
+  font-size: medium;
+  width: 8em;
+}
+
+.front-logo{
+  max-width: 50%;
+  height: auto;
+}
